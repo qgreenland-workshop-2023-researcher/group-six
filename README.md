@@ -1,9 +1,7 @@
 # group-six
 
 
-This is group six
-
-there are four members
+This is group six, there are four members
 
 # Pawan Singh
 
@@ -25,4 +23,5 @@ We have chosen the HydroLAKES dataset, which provides the shoreline polygons of 
 - Estimates of average depth
 - Water volume
 - Residence time
+
 We clipped the dataset to Greenland's boundaries to reduce its size.
