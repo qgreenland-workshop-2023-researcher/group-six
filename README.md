@@ -5,9 +5,9 @@ This is group six
 
 there are four members
 
-# Pawan
+# Pawan Singh
 
-# Santiago
+# Santiago Munevar
 
 # Melanie Engram
 
