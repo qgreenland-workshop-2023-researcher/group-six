@@ -12,8 +12,7 @@ _Santiago Munevar_
 
 _Vibhor Agarwal_
 
-Dataset is Hydrolakes: https://www.hydrosheds.org/products/hydrolakes
-
+We chode to work with HydroLAKES datasets. HydroLAKES aims to provide the shoreline polygons of all global lakes with a surface area of at least 10ha.
 ### Dataset is Hydrolakes: [here](https://www.hydrosheds.org/products/hydrolakes).
 
 Associate paper for dataset: Messager, M.L., Lehner, B., Grill, G., Nedeva, I., Schmitt, O. (2016). Estimating the volume and age of water stored in global lakes using a geo-statistical approach. Nature Communications, 7: 13603. https://doi.org/10.1038/ncomms13603
