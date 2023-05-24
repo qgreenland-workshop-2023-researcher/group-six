@@ -7,7 +7,7 @@ there are four members
 
 # Pawan
 
-# Santiage
+# Santiago
 
 # Melanie
 
