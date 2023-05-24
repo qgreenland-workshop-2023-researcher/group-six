@@ -1,6 +1,6 @@
 # Group 6
 
-Hello Everyone, Welcome to our repositry
+Hello :wave: Everyone, Welcome to our repositry
 
 We are four Members here 
 
