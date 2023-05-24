@@ -1,17 +1,20 @@
-# group-six
+# Group 6
 
+Hello Everyone, Welcome to our repositry
 
-This is group six, there are four members
+We are four Members here 
 
-# Pawan Singh
+_Pawan Singh_
 
-# Santiago Munevar
+_Santiago Munevar_
 
-# Melanie Engram
+_Melanie Engram_
 
-# Vibhor Agarwal
+_Vibhor Agarwal_
 
-### Dataset is Hydrolakes: https://www.hydrosheds.org/products/hydrolakes
+Dataset is Hydrolakes: https://www.hydrosheds.org/products/hydrolakes
+
+### Dataset is Hydrolakes: [here](https://www.hydrosheds.org/products/hydrolakes).
 
 Associate paper for dataset: Messager, M.L., Lehner, B., Grill, G., Nedeva, I., Schmitt, O. (2016). Estimating the volume and age of water stored in global lakes using a geo-statistical approach. Nature Communications, 7: 13603. https://doi.org/10.1038/ncomms13603
 
